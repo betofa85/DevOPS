@@ -1,2 +1,2 @@
 print("iaia")
-print("blbalb")
+print("blbb")
